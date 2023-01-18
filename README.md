@@ -5,7 +5,7 @@
 <li>The ability to give the amount of SMS! </li>
 
 <h4>This script is educational! Please do not abuse this tool <h4>
-
+- - -- - - - --- - - - -  -- - - 
 <li>Running on Windows, Termux, Linux </li>
 
 ```
