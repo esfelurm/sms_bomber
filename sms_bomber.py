@@ -1,9 +1,8 @@
 import os
-
+os.system("pip install requests")
 from requests import post, get
 rd, gn, lgn, yw, lrd, be, pe = '\033[00;31m', '\033[00;32m', '\033[01;32m', '\033[01;33m', '\033[01;31m', '\033[00;34m', '\033[01;35m'
 cn = '\033[00;36m'
-os.system("pip install requests")
 os.system("clear")
 print (f"""
 
