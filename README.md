@@ -1,4 +1,4 @@
-# sms_bomber
+# sms bomber
 
 <li>Powerful SMS to send consecutively to the target number!</li>
 <li>Number of web services: 50 </li>
