@@ -1,7 +1,7 @@
 # sms bomber
 <h3>❌ Tip: Use CTRL+C to finish! ❌</h3>
 <li>Powerful SMS to send consecutively to the target number!</li>
-<li>Number of web services: 100 </li>
+<li>Number of web services: 200 </li>
 <li>The ability to give the amount of SMS! </li>
 <h4>This script is educational! Please do not abuse this tool <h4>
 -----------------------------------------
