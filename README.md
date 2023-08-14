@@ -1,5 +1,6 @@
 # sms bomber
 <h3>❌ Tip: Use CTRL+C to finish! ❌</h3>
+update : https://github.com/esfelurm/iran-bomber
 <li>Powerful SMS to send consecutively to the target number!</li>
 <li>Number of Sms web services: 200 </li>
 <li>call web services: 3 </li>
